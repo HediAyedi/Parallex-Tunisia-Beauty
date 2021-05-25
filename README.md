@@ -1,2 +1,2 @@
 # Parallex-Tunisia-Beauty
-css only 
+Just css
