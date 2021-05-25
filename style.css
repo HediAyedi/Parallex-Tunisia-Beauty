@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.box1{
+	height: 100vh;
+	width: 100%;
+	background-image: url("https://c0.wallpaperflare.com/preview/149/745/100/tunis-tunisia-sidi-bou-said-sea.jpg");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+
+.box2{
+	height: 100vh;
+	width: 100%;
+	background-image: url("https://c0.wallpaperflare.com/preview/828/685/305/tunisia-sfax-roof-rooftops.jpg");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+
+.box3{
+	height: 100vh;
+	width: 100%;
+	background-image: url("https://cdn.hipwallpaper.com/i/41/41/sdRSjE.jpg");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box4{
+	height: 100vh;
+	width: 100%;
+	background-image: url("https://i.ytimg.com/vi/ZM4rlSUCdqs/maxresdefault.jpg");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box5{
+	height: 100vh;
+	width: 100%;
+	background-image: url("https://c0.wallpaperflare.com/preview/966/789/293/tunisia-hammam-sousse-mediterranean-sun.jpg");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+.box6{
+	height: 100vh;
+	width: 100%;
+	background-image: url("https://i.pinimg.com/originals/8d/27/c5/8d27c5f530a7b846d62030bcf272075e.jpg");
+	background-size: cover;
+	background-position: center;
+	display: table;
+	background-attachment: fixed;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 48px;
+	color: #fff;
+	margin: 0px;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
